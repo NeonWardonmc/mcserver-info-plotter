@@ -9,7 +9,7 @@ A Python script that reads Minecraft server data from a CSV file and plots the t
   - Country of server (column 11)
   - Player count (column 5)
 - Sorts servers by player count
-- Plots the **top 10** countries with the most players online using a bar chart
+- Plots the **top 10** countries with the most players online using a bar chart or line graph.
 
 ## Requirements
 
